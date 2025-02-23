@@ -16,7 +16,7 @@ module.exports = {
   nodes: [
      {
       name: "XX",
-      password: "enteryourcustompass",
+      password: "0654788685razor",
       host: "180.188.226.76",
       port:  7019,
       secure: false

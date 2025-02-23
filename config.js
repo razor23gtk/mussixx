@@ -18,7 +18,7 @@ module.exports = {
       name: "XX",
       password: "0654788685razor",
       host: "180.188.226.76",
-      port:  7019,
+      port:  4702,
       secure: false
     }
   ]

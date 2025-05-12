@@ -17,11 +17,11 @@ module.exports = {
   errorLog: "", 
   nodes: [
 {
-      name: "apollo Node",
-      password: "https://dsc.gg/ajidevserver",
-      host: "lava-v3.ajieblogs.eu.org",
-      port:  443,
-      secure: true
+      name: "Main Node",
+      password: "youshallnotpass",
+      host: "lavalink.jirayu.net",
+      port:  13592,
+      secure: false
     } 
   ]
 }

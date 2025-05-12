@@ -17,11 +17,11 @@ module.exports = {
   errorLog: "", 
   nodes: [
 {
-      name: "Unknownz",
-      password: "unknownz",
-      host: "de1.bot-hosting.net",
-      port:  20773,
-      secure: false
+      Host : lava-v3.ajieblogs.eu.org
+Port : 443
+Password : "https://dsc.gg/ajidevserver"
+Secure : true,
+      
 } 
   ]
 }

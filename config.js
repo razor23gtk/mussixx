@@ -18,8 +18,8 @@ module.exports = {
   nodes: [
 {
       name: "Muzykant lavalink v4",
-      password: "https://discord.gg/v6sdrD9kPh",
-      host: "lavalink_v4.muzykant.xyz",
+      password: "https://dsc.gg/ajidevserver",
+      host: "lavalinkv4.serenetia.com",
       port:  443,
       secure: true
     } 

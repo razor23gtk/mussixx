@@ -17,11 +17,11 @@ module.exports = {
   errorLog: "", 
   nodes: [
 {
-      name: "Main Node",
-      password: "youshallnotpass",
-      host: "lavalink.jirayu.net",
-      port:  13592,
-      secure: false
+      name: "Muzykant lavalink v4",
+      password: "https://discord.gg/v6sdrD9kPh",
+      host: "lavalink_v4.muzykant.xyz",
+      port:  443,
+      secure: true
     } 
   ]
 }

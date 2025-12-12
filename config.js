@@ -17,11 +17,11 @@ module.exports = {
   errorLog: "", 
   nodes: [
 {
-      name: "Muzykant lavalink v4",
-      password: "https://dsc.gg/ajidevserver",
-      host: "lavalinkv4.serenetia.com",
-      port:  443,
-      secure: true
+      name: "apollo",
+      password: "cocaine",
+      host: "nexus.voidhosting.vip",
+      port:  6004,
+      secure: false
     } 
   ]
 }
